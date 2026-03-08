@@ -15,7 +15,7 @@ def cleaning_fun(text):
     new_text = ""
                 
 
-#are these needed ,
+
     symbols = "@#$^&*()[]{}<>~+=|/"
     punctuations = ".,;:!?\"'"
     clean=""
